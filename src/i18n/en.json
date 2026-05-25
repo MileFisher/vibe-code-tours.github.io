@@ -24,7 +24,8 @@
     "coc": "Code of Conduct",
     "privacy": "Privacy",
     "contact": "Contact",
-    "license": "Curriculum: CC-BY-SA 4.0 · Code: MIT · Logo + visuals: CC-BY-SA 4.0"
+    "license": "Curriculum: CC-BY-SA 4.0 · Code: MIT · Logo + visuals: CC-BY-SA 4.0",
+    "credibility": "Free to participants · Bootstrapped, seeking sponsors · MIT / CC-BY-SA licensed curriculum"
   },
   "home": {
     "title": "Vibe Code Tours — A guided journey into AI-paired coding",
@@ -163,9 +164,8 @@
     "intro": "The Tour is free to students. That requires sponsorship.",
     "cohort1Heading": "Cohort 1 sponsors",
     "cohort1List": [
-      "[Sponsor 1] — provided <what>",
-      "[Sponsor 2] — provided <what>",
-      "(Or: \"Currently bootstrapped by instructor + small donors. See below to support.\")"
+      "Currently bootstrapped by the instructor — no sponsors yet.",
+      "Want to be Cohort 1's first sponsor? See below."
     ],
     "howHeading": "How to sponsor",
     "orgHeading": "For organizations",
@@ -200,7 +200,7 @@
     "items": [
       {
         "q": "Is the Tour really free?",
-        "a": "Yes. We're sponsor-funded. We don't take money from students. We may ask for an optional voluntary contribution at the end if you found it valuable, but it's never required."
+        "a": "Yes — free for students, full stop. Right now the Tour is bootstrapped by the instructor; we don't have a corporate sponsor yet (we're looking — see the Sponsors page). You'll never be charged. If you finish and found it valuable, an optional voluntary contribution helps fund the next cohort — but it's never required."
       },
       {
         "q": "Why \"Tour\"?",
