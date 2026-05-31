@@ -24,8 +24,8 @@ const url = (val: string | undefined, base: string) =>
       ? val
       : base + val.replace(/^@/, "");
 
+// GitHub is already shown via the avatar + @handle link above — not repeated here.
 const links = [
-  { label: "GitHub", href: `https://github.com/${github}`, show: true },
   { label: "Repo", href: repo, show: !!repo },
   { label: "X", href: url(x, "https://x.com/"), show: !!x },
   {

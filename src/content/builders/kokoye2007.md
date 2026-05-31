@@ -4,7 +4,6 @@ github: kokoye2007
 cohort: 1
 role: instructor
 skills: ["Claude Code", "MCP", "Astro", "Python", "DevOps"]
-repo: https://github.com/kokoye2007
 x: kokoye2007
 linkedin: kokoye2007
 website: https://vibecode.tours
