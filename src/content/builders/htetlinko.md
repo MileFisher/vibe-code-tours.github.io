@@ -4,7 +4,7 @@ github: HtetLin27
 cohort: 1
 role: builder
 skills: ["JavaScript", "Node.js", "Claude Code", "React.js", "TypeScript"]
-repo: https://github.com/HtetLin27
+x: HtetLintz
 linkedin: https://www.linkedin.com/in/htet-lin-ko-411b02204
 website: https://www.htetlinko.com/
 ---
