@@ -3,7 +3,7 @@ name: Aung Kyaw Myint
 github: aungyephyo2215
 cohort: 1
 role: builder
-skills: [“AWS”, “DevOps”, “Terraform”, “Docker”, “Python”, “Claude Code”]
+skills: ["AWS", "DevOps", "Terraform", "Docker", "Python", "Claude Code"]
 ---
 
 Hi! I'm passionate about AI, automation, and building useful things. Excited to learn, collaborate, and ship real-world projects.
